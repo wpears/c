@@ -1,6 +1,0 @@
-This is a         
-testfile  
-ohhh      
-
-yeah
-!!
